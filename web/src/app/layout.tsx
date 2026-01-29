@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "CSCA SPACE — The Intelligent Bridge to Your Grant in China",
     description: "Apply for Chinese government scholarships with AI precision. Connect with top universities like Tsinghua and Peking University.",
-    url: "https://cscaspace.com",
+    url: "https://csca.space",
     siteName: "CSCA SPACE",
     type: "website",
     locale: "en_US",
